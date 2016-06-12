@@ -3,7 +3,7 @@
 Project has been written on Python 3.
 
 # Requirements
-- pip install beautifulsoup4
+- beautifulsoup4
 - urllib
 - urllib.request
 - sqlite3
